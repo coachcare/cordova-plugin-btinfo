@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-btinfo",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.selvera.cordova.plugin.btinfo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selvera/cordova-plugin-btinfo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selvera/cordova-plugin-btinfo/issues"
+  },
+  "homepage": "https://github.com/selvera/cordova-plugin-btinfo#readme"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-btinfo"
+        version="0.0.1">
+
+    <name>cordova-plugin-itunesfilesharing</name>
+    <description>Description for iOS of bluetooth usage in app</description>
+    <license>Apache 2.0 License</license>
+    <platform name="ios">
+        <config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription">
+            <string>The mobile app connects to user-selected bluetooth scale and activity tracker devices.</string>
+        </config-file>
+    </platform>
+</plugin>
+
